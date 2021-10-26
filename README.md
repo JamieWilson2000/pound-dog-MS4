@@ -171,45 +171,45 @@ The idea of the bare bones of the project were sketched out in wireframes using 
 
 - A wireframe summary of the home page on desktop, tablet, and mobile view.
 
-![homepagedesktopview](documentation/)
-![homepagetabletview](documentation/)
-![homepagemobileview](documentation/)
-![homepagesidenavmobileview](documentation/)
+![landingpagedesktopview](documentation/wireframes/landingpagedesktop.png)
+![landingpagetabletview](documentation/wireframes/landingpagetablet.png)
+![landingpagemobileview](documentation/wireframes/landingpagemobile.png)
+![landingpagetabletsidebarview](documentation/wireframes/landingpagetabletsidebar.png)
 
-- A wireframe summary of the .... on desktop, tablet, and mobile view.
+- A wireframe summary of the About Us page on desktop, tablet, and mobile view.
 
-![historypagedesktopview](documentation/wireframes/)
-![historypagetabletview](documentation/wireframes/)
-![historypagemobileview](documentation/wireframes/)
-![historypagesidenavmobileview](documentation/wireframes/)
+![aboutusdesktopview](documentation/wireframes/aboutusdesktop.png)
+![aboutustabletview](documentation/wireframes/aboutustablet.png)
+![aboutusmobileview](documentation/wireframes/aboutusmobile.png)
+![aboutustabletsidebarview](documentation/wireframes/aboutustabletsidebar.png)
 
-- A wireframe summary of the .... page on desktop, tablet, and mobile view.
+- A wireframe summary of the Log In page on desktop, tablet, and mobile view.
 
-![loginpagedesktopview](documentation/wireframes/)
-![loginpagetabletview](documentation/wireframes/)
-![loginpagemobileview](documentation/wireframes/)
-![loginpagemobilesidenavview](documentation/wireframes/)
+![loginpagedesktopview](documentation/wireframes/logindesktop.png)
+![loginpagetabletview](documentation/wireframes/loginmobile.png)
+![loginpagemobileview](documentation/wireframes/logintablet.png)
+![loginpagemobilesidenavview](documentation/wireframes/logintabletsidebar.png)
 
 - A wireframe summary of the Registration page on desktop, tablet, and mobile view.
 
-![registrationpagedesktopview](documentation/wireframes/)
-![registrationpagetabletview](documentation/wireframes/)
-![registrationpagemobileview](documentation/wireframes/)
-![registrationpagemobilesidenavview](documentation/wireframes/)
+![registrationpagedesktopview](documentation/wireframes/registerdesktop.png)
+![registrationpagetabletview](documentation/wireframes/registertablet.png)
+![registrationpagemobileview](documentation/wireframes/registermobile.png)
+![registrationpagemobilesidenavview](documentation/wireframes/registertabletsidebar.png)
 
-- A wireframe summary of the Logged In / Registered page on desktop, tablet, and mobile view.
+- A wireframe summary of the Donation page on desktop, tablet, and mobile view.
 
-![loggedinpagedesktopview](documentation/wireframes/loggedinpagedesktop.png)
-![loggedinpagetabletview](documentation/wireframes/loggedinpagetablet.png)
-![loggedinpagemobileview](documentation/wireframes/loggedinpagemobile.png)
-![loggedinpagemobilesidenavview](documentation/wireframes/loggedinpagemobilesidenav.png)
+![donationpagedesktopview](documentation/wireframes/donationpagedesktop.png)
+![donationpagetabletview](documentation/wireframes/donationpagetablet.png)
+![donationpagemobileview](documentation/wireframes/donationpagemobile.png)
+![donationpagemobilesidenavview](documentation/wireframes/donationpagetabletsidebar.png)
 
-- A wireframe summary of the User Profile page on desktop, tablet, and mobile view.
+- A wireframe summary of the Payment page on desktop, tablet, and mobile view.
 
-![userprofilepagedesktopview](documentation/wireframes/)
-![userprofilepagetabletview](documentation/wireframes/)
-![userprofilepagemobileview](documentation/wireframes/)
-![userprofilepagemobilesidenavview](documentation/wireframes/)
+![paymentpagedesktopview](documentation/wireframes/paymentpagedesktop.png)
+![paymentpagetabletview](documentation/wireframes/paymentpagetablet.png)
+![paymentpagemobileview](documentation/wireframes/paymentpagemobile.png)
+![paymentpagemobilesidenavview](documentation/wireframes/paymentpagetabletsidebar.png)
 
 - A wireframe summary of the .... page on desktop, tablet, and mobile view.
 
