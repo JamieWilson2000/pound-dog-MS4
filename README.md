@@ -807,6 +807,8 @@ Results shown below:
 
 ## Imagery used in the site
 
+Opening image on landing page: https://www.rawpixel.com/image/542304
+
 ## Video used in the site
 
 ## Throughout the creation of this project I have referred to the following for assistance and guidance:
